@@ -90,7 +90,7 @@ h1::after, h2::after, h3::after, h4::after, h5::after, h6::after {
   color: #000000;
   cursor: pointer;
   box-shadow: inset 20em 0 0 0 #FFCC00;
-  transform: scale(1.1);
+  /*transform: scale(1.1);*/
 }
 .container-main-menu ul li.active {
   background: #FFCC00;
